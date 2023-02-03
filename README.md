@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👨‍💻, I'm Aniket Shrungare</h1>
+<h3 align="left">cout<<"Grind & Smile"";</h3>
 
-<!--
-**aniketsh22/aniketsh22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-Here are some ideas to get you started:
+[![](https://visitcount.itsvg.in/api?id=aniketsh22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 😉 I’m currently **a pre-final year Computer Engineering student**
+
+- 🚀 All of my projects are available at [https://github.com/aniketsh22](https://github.com/aniketsh22)
+
+- 📫 How to reach me **22aniketshrungare@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shrungare_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrungare_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniket-shrungare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-shrungare" height="30" width="40" /></a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsh22&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="aniketsh22" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsh22&theme=dark&hide_border=false&show_icons=true&locale=en" alt="aniketsh22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsh22&theme=dark&hide_border=false" alt="aniketsh22" /></p>
+
+
+<h3 align="left">Support:</h3>
+
+![bahroo-hacker](https://user-images.githubusercontent.com/89505839/216672711-57ab8509-7867-49d5-81ea-a9bec80ef46c.gif)
+
+<p><a href="https://www.buymeacoffee.com/anikettt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anikettt" /></a></p><br><br>
