@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-[![](https://visitcount.itsvg.in/api?id=aniketsh22&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aniketsh22&label=Profile%20Views&color=9&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 
 - 😉 I’m currently **a pre-final year Computer Engineering student**
@@ -18,11 +18,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsh22&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="aniketsh22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsh22&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&locale=en&layout=compact" alt="aniketsh22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsh22&theme=dark&hide_border=false&show_icons=true&locale=en" alt="aniketsh22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketsh22&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true&locale=en" alt="aniketsh22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsh22&theme=dark&hide_border=false" alt="aniketsh22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsh22&theme=tokyonight&hide_border=false&include_all_commits=true" alt="aniketsh22" /></p>
 
 
 <h3 align="left">Support:</h3>
