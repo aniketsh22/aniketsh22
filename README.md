@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=aniketsh22&label=Profile%20Views&color=9&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 
-- 😉 I’m currently **a pre-final year Computer Engineering student**
+- 😉 Currently **a pre-final year Computer Engineering student**
 
 - 🚀 All of my projects are available at [https://github.com/aniketsh22](https://github.com/aniketsh22)
 
