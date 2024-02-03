@@ -15,9 +15,4 @@
 <p align="left">
 <a href="https://twitter.com/shrungare_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrungare_" height="30" width="40" /></a>
 
-
-<h3 align="left">Support:</h3>
-
 ![bahroo-hacker](https://user-images.githubusercontent.com/89505839/216672711-57ab8509-7867-49d5-81ea-a9bec80ef46c.gif)
-
-<p><a href="https://www.buymeacoffee.com/anikettt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anikettt" /></a></p><br><br>
