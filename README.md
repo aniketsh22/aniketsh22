@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello 👨‍💻, I'm Aniket Shrungare</h2>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/89505839/216672711-57ab8509-7867-49d5-81ea-a9bec80ef46c.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/89505839/216672711-57ab8509-7867-49d5-81ea-a9bec80ef46c.gif">
 
 
 - 😉 Currently **Final year Computer Engineering student**
