@@ -2,9 +2,6 @@
 
 <h2 align="center">Hello 👨‍💻, I'm Aniket Shrungare</h2>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/89505839/216672711-57ab8509-7867-49d5-81ea-a9bec80ef46c.gif">
-
-
 - 🚀 All of my projects are available at [https://github.com/aniketsh22](https://github.com/aniketsh22)
 
 - 📫 How to reach me **22aniketshrungare@gmail.com**
